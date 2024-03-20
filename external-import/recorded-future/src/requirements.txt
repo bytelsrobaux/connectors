@@ -16,5 +16,3 @@ sseclient
 stix2
 stix2-patterns
 urllib3
-fuzzywuzzy
-python-Levenshtein
